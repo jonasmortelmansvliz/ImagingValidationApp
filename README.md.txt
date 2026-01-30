@@ -1,3 +1,9 @@
+# Citation
+
+Mortelmans, J. (2026). jonasmortelmansvliz/ImagingValidationApp: v1.0.1 (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.18429119
+
+
+
 # ImagingValidationApp
 
 **A Shiny-based tool for manual labeling of plankton images from the Pi-10 Plankton Imager.**
